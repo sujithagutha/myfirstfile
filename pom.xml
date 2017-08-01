@@ -9,11 +9,7 @@
 
   <name>001</name>
   <url>http://maven.apache.org</url>
-  <modules>
-   <module> add </module>
-   <module> sub </module>
-   <module> mul </module>
-  </modules>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
